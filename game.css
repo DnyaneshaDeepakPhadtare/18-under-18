@@ -1,0 +1,56 @@
+body
+{
+	color: white;
+	background-size: cover;
+	text-align: center;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#mobile_number,#otp_number,#state,#dob,#gender{
+	height: 30px;
+	width: 350px;
+	text-align: center;
+}
+.heading{
+	color: rgb(255, 8, 8);
+	font-size: 50px;
+}
+#last_period_date,#specific_problem,#napkins_used_pad,#periods_blog,#talk_to_doctor{
+	height: 30px;
+	width: 350px;
+	text-align: center;
+	margin-top: 30px;
+}
+.buttons{
+	margin-top: 30px;
+}
